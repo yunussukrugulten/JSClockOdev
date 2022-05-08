@@ -1,26 +1,22 @@
-# JSClockOdev
+## JSClockOdev
+<hr>
+A screen that displays the current time and day by asking you for your name at login with JavaScript and then placing that name on the welcome screen.
 
-Bu repo [Patika.dev](https://www.patika.dev) *Javascript Saat ve Karşılama* ödevi için oluşturduğum bir diğer repo.
-
-## Patika.dev Hesabım
+## Patika.dev Account
+<hr>
 [Yunus Şükrü Gülten](https://app.patika.dev/yunussukrugulten)
 
-## Proje Resmi
+## Project Picture
+<hr>
 ![github](img/JsClock.png)
 
 ## Installation
-
-Öncelikle projeyi clonelayın.
-
+<hr>
 ```bash
 git clone https://github.com/yunussukrugulten/JSClockOdev.git
 ```
-
 ## Usage
-
-Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
-
-Linux için:
+<hr>
 ```linux
 cd JSClockOdev
 code .
