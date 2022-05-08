@@ -16,3 +16,6 @@ git clone https://github.com/yunussukrugulten/JSClockOdev.git
 cd JSClockOdev
 code .
 ```
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
